@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rafi Arrafif</h1>
 <h3 align="center">I’m a 12th-grade student from a small rural town called Sukoharjo, near Solo. After studying in a islamic boarding school where I had little exposure to computers, I discovered my passion for software development upon leaving. Over time, I’ve become proficient in both the front-end and back-end aspects of web development, mastering languages for styling and logic. My favorite frameworks are Nuxt.js and Laravel, and I’m currently expanding my knowledge in web development and machine learning. My enthusiasm for programming continues to grow, and I’m excited about pursuing a degree in computer science to deepen my expertise.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiarrafif&label=Profile%20views&color=0e75b6&style=flat" alt="rafiarrafif" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiarrafif&show_icons=true&locale=en&layout=compact" alt="rafiarrafif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiarrafif&show_icons=true&locale=en" alt="rafiarrafif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiarrafif&" alt="rafiarrafif" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiarrafif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiarrafif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 - 🔭 I’m currently working on [Nounoz Project](https://www.nounoz.com)
 
