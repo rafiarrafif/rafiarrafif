@@ -13,7 +13,6 @@ I believe technology should serve people, not impress them. It should clarify, n
 **🛠️ A Project I’m Growing With**
 
 One of my ongoing projects is Nounoz Zone, hosted at zone.nounoz.com. It’s an ambitious attempt to build an "otaku center" a unified space for anime communities. I’m working to bring together the essence of platforms like Reddit’s anime channels, Kusonime-style free streaming, data from JikanAPI, and even personalized profiles inspired by MyAnimeList. Rather than jumping between fragmented sites, I want fans to have everything in one place.
-
 While it’s still under development, the journey has already taught me a great deal from technical challenges like handling scalability with ElysiaJS, to human challenges like making decisions with a team that thinks differently. The codebase is private, but collaboration is always welcome. You can reach out to me via email if you're interested.
 ---
 
