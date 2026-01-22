@@ -12,7 +12,7 @@ I believe technology should serve people, not impress them. It should clarify, n
 
 **🛠️ A Project I’m Growing With**
 
-One of my ongoing projects is [Syzne TV](https://tv.syzne.com). It’s an ambitious attempt to build an "otaku center" a unified space for anime communities. I’m working to bring together the essence of platforms like Reddit’s anime channels, Kusonime-style free streaming, data from JikanAPI, and even personalized profiles inspired by MyAnimeList. Rather than jumping between fragmented sites, I want fans to have everything in one place. 
+One of my ongoing projects is [Syzne TV](https://git.arrafif.com/rafi). It’s an ambitious attempt to build an "otaku center" a unified space for anime communities. I’m working to bring together the essence of platforms like Reddit’s anime channels, Kusonime-style free streaming, data from JikanAPI, and even personalized profiles inspired by MyAnimeList. Rather than jumping between fragmented sites, I want fans to have everything in one place.
 
 While it’s still under development, the journey has already taught me a great deal from technical challenges like handling scalability with ElysiaJS, to human challenges like making decisions with a team that thinks differently. The collaboration is always welcome, You can reach out to me via email if you need any help.
 
@@ -28,5 +28,5 @@ To create something that brings value to others even if it’s quiet, even if it
 
 If you want to discuss ideas, collaborate, or just share thoughts, I’m always open.
 
-- Email: [rafi@arrafif.com](mailto:rafi@arrafif.com)  
+- Email: [rafi@arrafif.com](mailto:rafi@arrafif.com)
 - Website: [https://arrafif.com](https://arrafif.com)
